@@ -1,0 +1,2 @@
+# docConstr
+Constructor by Docs
